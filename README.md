@@ -34,9 +34,6 @@
  ![image](https://github.com/nhang1020/CHPC_dotNET/assets/94044017/f8aacae4-e0f6-4117-ac88-1dbd71d82612)
 
 9.	Giao diện đổi thông tin tài khoản
-	Click chọn vào ảnh đại diện để mở menu
-
-![image](https://github.com/nhang1020/CHPC_dotNET/assets/94044017/8381685c-1385-4700-9188-20eea0aa4ee6)
 ![image](https://github.com/nhang1020/CHPC_dotNET/assets/94044017/25f072ba-e303-497f-b6c8-8a64d4533b63)
 
 11.	Hóa đơn in
