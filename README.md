@@ -3,7 +3,7 @@
 # Xây dựng
 - Ngôn ngữ lập trình: C# dựa trên .NET 5.
 - Thiết kế theo mô hình 3 lớp: GUI(Presentation Layers), BUS(Business Logic Layers), DAO(Data Access Layers), và Dữ liệu được trung chuyển giữa các layer thông qua một đối tượng gọi là Data Transfer Object (là các class đại diện cho các đối tượng được lưu trữ trong csdl).
-- Cơ sở dữ liệu được sử dụng là SQL Server.
+- Cơ sở dữ liệu được sử dụng là SQL (sử dụng hệ quản trị SQL Server).
 - Các components custom.
 # Hình ảnh về ứng dụng
 1.	Giao diện đăng nhập
